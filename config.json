@@ -1,7 +1,7 @@
 {
-  "timeZone": "Asia/Jakarta",
+  "timeZone": "Asia/Colombo",
   "language": "en",
-  "ownerNumber": ["6285163651710", "558188263143", "6281311850715"],
+  "ownerNumber": ["18122140270"],
   "readStatus": false,
   "readMessage": false,
   "antiCall": {
@@ -9,21 +9,21 @@
     "block": false,
     "ban": false
   },
-  "prefix": "!#.",
-  "name": "𝙷ɪɢᴀꜱʜɪʏᴀᴍᴀ 𝙺ᴏʙᴇɴɪ",
-  "footer": "arugaz/whatsapp-bot",
+  "prefix": "!$",
+  "name": "Tech Master",
+  "footer": false,
   "self": true,
   "user": {
     "basic": {
-      "limit": 30
+      "limit": 1000000
     },
     "premium": {
-      "limit": 300,
-      "expires": 30
+      "limit": 1000000,
+      "expires": 1000000
     },
     "vip": {
-      "limit": 3000,
-      "expires": 30
+      "limit": 10000000,
+      "expires": 1000000
     }
   }
 }
